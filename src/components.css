@@ -1,0 +1,13 @@
+.btn {
+  padding: 0.5rem 1rem;
+  background: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 0.25rem;
+}
+.alert {
+  padding: 1rem;
+  background: #ffc107;
+  color: #000;
+  border-radius: 0.25rem;
+}
